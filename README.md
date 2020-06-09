@@ -2,8 +2,8 @@
 Example of Memcached Server using Redis in Express JS
 
 ## Technologies
-* Redis\
-* Express JS\
+* Redis
+* Express JS
 
 ## Setup
 To run this project, install it locally using npm:
@@ -14,7 +14,7 @@ $ git clone https://github.com/GaneshUP/Memcached-Server-Redis-ExpressJs.git
 ```
 
 #### Create .env File
-1. Create a file with name .env inside project root folder\
+1. Create a file with name .env inside project root folder
 2. .env file should be like below:
 ```
 PORT=5000
