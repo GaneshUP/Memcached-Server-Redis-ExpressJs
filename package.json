@@ -19,6 +19,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
+    "memcached": "^2.2.2",
     "moment": "^2.26.0",
     "morgan": "^1.10.0",
     "redis": "^3.0.2"

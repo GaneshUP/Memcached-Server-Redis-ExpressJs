@@ -22,6 +22,8 @@ REDIS_HOST=<Redis Server Host>
 REDIS_PORT=<Redis Server Port>
 REDIS_PASS=<Redis Server Password>
 REDIS_USER=<Redis Server Username>
+MEMCACHED_HOST=<Memcached Server Host>
+MEMCACHED_PORT=<Memcached Server Port>
 ```
 
 ## Run Project
