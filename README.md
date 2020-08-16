@@ -1,5 +1,5 @@
 # Memcached-Server-Redis-ExpressJs
-Example of Memcached Server using Redis in Express JS
+Example of Caching using Memcached and Redis Server in Express JS
 
 ## Technologies
 * Redis

@@ -26,7 +26,7 @@ client.on('error', (err) => {
 });
 
 // Flush Redis DB
-client.flushdb();
+// client.flushdb();
 
 // Add Morgan to app for log all the requests
 app.use(morgan('dev'));
